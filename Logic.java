@@ -5,7 +5,7 @@ public class Logic {
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("hiiii"+i);
+			System.out.println("para"+i);
 		}
 	}
 }
